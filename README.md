@@ -5,3 +5,6 @@ The aim of these projects is to practice basic programming theory and to give ge
 
 This repository is mostly written in Python and C++ languages and contains only basic theoretical topics.
 
+Programming Topics:
+- Finding the minimum and maximum values of an array
+- Finding the unique elements of an array
