@@ -8,3 +8,4 @@ This repository is mostly written in Python and C++ languages and contains only 
 Programming Topics:
 - Finding the minimum and maximum values of an array
 - Finding the unique elements of an array
+- Reversing a string and returning the modified version
