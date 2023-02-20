@@ -5,7 +5,7 @@ def first_duplicate(arr):
     Returns the first duplicate number of the given array with the given order
     :param arr: Input array
     :return: The first duplicate value or Null if there are no duplicates
-    Complexity: Unfortunately O(n), S(n^2)
+    Complexity: O(n), S(n)
     """
     # Initialize the symbol table
     element_dict = dict()
