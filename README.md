@@ -10,3 +10,4 @@ Programming Topics:
 - Finding the unique elements of an array
 - Reversing a string and returning the modified version
 - Checking if an integer is in palindrome form
+- Finding the first duplicate value of an integer array
